@@ -1,4 +1,6 @@
-## Hi there 👋
+## Clam, Oyster, Limpet.
+
+Hm. The day we meet seems like yesterday.
 
 <!--
 **CookedSeafood/CookedSeafood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
